@@ -14,4 +14,26 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="석차순위.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="자료.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="정렬.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="배열출력.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="배열할당.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="배열회전.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
